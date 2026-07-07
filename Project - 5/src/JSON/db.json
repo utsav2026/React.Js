@@ -1,0 +1,520 @@
+{
+  "products": [
+    {
+      "product_name": "IPhone 16(Black, 128GB)",
+      "product_category": "Electronics",
+      "product_price": 1500000,
+      "product_stock": 100,
+      "product_image": "data:image/jpeg;base64,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",
+      "product_description": "This is a good electronic device you should try it once after purchasing.",
+      "id": "ucTHDJKIecc"
+    },
+    {
+      "product_name": "PALAK Multipurpose",
+      "product_category": "Kitchen",
+      "product_price": 490,
+      "product_stock": 50,
+      "product_image": "https://m.media-amazon.com/images/I/51hLT9m7W1L._SY300_SX300_QL70_FMwebp_.jpg",
+      "product_description": "360 Degree Rotation- This spice rack has 360-degree revolving feature which helps to find the desire spice more quickly. And this beautiful spice rack will add beauty to your kitchen area. It has compact design that takes only small place in your kitchen cabinet.",
+      "id": "c8X1ULVly0c"
+    },
+    {
+      "product_name": "2026 X7 Portable Game Player",
+      "product_category": "Gaming",
+      "product_price": 4999,
+      "product_stock": 50,
+      "product_image": "https://m.media-amazon.com/images/I/4121A7nCQ5L._SX300_SY300_QL70_FMwebp_.jpg",
+      "product_description": "4.3-Inch HD Display Bright, clear screen with vivid colors for an immersive handheld gaming experience.\nDual Rocker Controls Ergonomic dual joystick design ensures precise control and comfortable gameplay during long sessions.\n10,000 Built-in Classic Games Huge collection of retro arcade and console games—ready to play, no internet needed.\n8GB Internal Memory Ample storage to support thousands of games and multimedia files.\nInbuilt Camera Capture photos and videos directly from the device for added fun.",
+      "id": "9sm6HhwRq7Q"
+    },
+    {
+      "product_name": "Apple 2026 MacBook Pro Laptop",
+      "product_category": "Electronics",
+      "product_price": 500000,
+      "product_stock": 5,
+      "product_image": "https://m.media-amazon.com/images/I/61h78UMEXjL._SL1500_.jpg",
+      "product_description": "FAST RUNS IN THE FAMILY — The 16″ MacBook Pro with the M5 Pro or M5 Max chip brings next-generation speed and powerful on-device AI to personal, professional and creative tasks. With all-day battery life, double the starting storage and a breathtaking Liquid Retina XDR display, it’s pro in every way.",
+      "id": "vuMmSXKzhDg"
+    },
+    {
+      "product_name": "Men Casual Shirt",
+      "product_category": "Fashion",
+      "product_price": 999,
+      "product_stock": 50,
+      "product_image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=300",
+      "product_description": "Stylish casual shirt for men.",
+      "id": "p1"
+    },
+    {
+      "product_name": "Women Summer Dress",
+      "product_category": "Fashion",
+      "product_price": 1499,
+      "product_stock": 35,
+      "product_image": "https://images.unsplash.com/photo-1572804013307-f9a8a926417a?w=300",
+      "product_description": "Lightweight summer dress.",
+      "id": "p2"
+    },
+    {
+      "product_name": "Running Shoes",
+      "product_category": "Fashion",
+      "product_price": 2499,
+      "product_stock": 40,
+      "product_image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300",
+      "product_description": "Comfortable running shoes.",
+      "id": "p3"
+    },
+    {
+      "product_name": "Leather Wallet",
+      "product_category": "Fashion",
+      "product_price": 699,
+      "product_stock": 60,
+      "product_image": "https://images.unsplash.com/photo-1627123430985-71d46af30b5d?w=300",
+      "product_description": "Premium leather wallet.",
+      "id": "p4"
+    },
+    {
+      "product_name": "Smartphone X Pro",
+      "product_category": "Electronics",
+      "product_price": 45000,
+      "product_stock": 20,
+      "product_image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=300",
+      "product_description": "Latest smartphone with advanced features.",
+      "id": "p5"
+    },
+    {
+      "product_name": "Wireless Earbuds",
+      "product_category": "Electronics",
+      "product_price": 1999,
+      "product_stock": 70,
+      "product_image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=300",
+      "product_description": "Noise cancelling earbuds.",
+      "id": "p6"
+    },
+    {
+      "product_name": "Laptop Stand",
+      "product_category": "Electronics",
+      "product_price": 1299,
+      "product_stock": 25,
+      "product_image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=300",
+      "product_description": "Ergonomic laptop stand.",
+      "id": "p7"
+    },
+    {
+      "product_name": "Bluetooth Speaker",
+      "product_category": "Electronics",
+      "product_price": 2999,
+      "product_stock": 30,
+      "product_image": "https://images.unsplash.com/photo-1608156639585-b3a032ef9689?w=300",
+      "product_description": "Portable speaker with deep bass.",
+      "id": "p8"
+    },
+    {
+      "product_name": "Gaming Headset",
+      "product_category": "Gaming",
+      "product_price": 1599,
+      "product_stock": 45,
+      "product_image": "https://images.unsplash.com/photo-1599666505317-7bb1999a2d28?w=300",
+      "product_description": "High-quality gaming headset.",
+      "id": "p9"
+    },
+    {
+      "product_name": "PS5 Controller",
+      "product_category": "Gaming",
+      "product_price": 4999,
+      "product_stock": 15,
+      "product_image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=300",
+      "product_description": "Wireless gaming controller.",
+      "id": "p10"
+    },
+    {
+      "product_name": "Gaming Chair",
+      "product_category": "Gaming",
+      "product_price": 8999,
+      "product_stock": 10,
+      "product_image": "https://images.unsplash.com/photo-1598550476439-6847785fce66?w=300",
+      "product_description": "Ergonomic gaming chair.",
+      "id": "p11"
+    },
+    {
+      "product_name": "VR Headset",
+      "product_category": "Gaming",
+      "product_price": 15000,
+      "product_stock": 8,
+      "product_image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=300",
+      "product_description": "Immersive virtual reality headset.",
+      "id": "p12"
+    },
+    {
+      "product_name": "Mixer Grinder",
+      "product_category": "Kitchen",
+      "product_price": 3499,
+      "product_stock": 20,
+      "product_image": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?w=300",
+      "product_description": "Powerful kitchen mixer.",
+      "id": "p13"
+    },
+    {
+      "product_name": "Electric Kettle",
+      "product_category": "Kitchen",
+      "product_price": 1299,
+      "product_stock": 35,
+      "product_image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?w=300",
+      "product_description": "Fast boiling kettle.",
+      "id": "p14"
+    },
+    {
+      "product_name": "Lunch Box Set",
+      "product_category": "Kitchen",
+      "product_price": 599,
+      "product_stock": 50,
+      "product_image": "https://images.unsplash.com/photo-1619191163420-4a7c0798b8a4?w=300",
+      "product_description": "Leak-proof lunch box.",
+      "id": "p15"
+    },
+    {
+      "product_name": "Water Bottle Steel",
+      "product_category": "Kitchen",
+      "product_price": 499,
+      "product_stock": 60,
+      "product_image": "https://images.unsplash.com/photo-1602143399827-bd9aa9673b57?w=300",
+      "product_description": "Insulated steel bottle.",
+      "id": "p16"
+    },
+    {
+      "product_name": "Denim Jacket",
+      "product_category": "Fashion",
+      "product_price": 1999,
+      "product_stock": 25,
+      "product_image": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?w=300",
+      "product_description": "Classic denim jacket.",
+      "id": "p17"
+    },
+    {
+      "product_name": "Sports Watch",
+      "product_category": "Fashion",
+      "product_price": 1299,
+      "product_stock": 40,
+      "product_image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300",
+      "product_description": "Water-resistant sports watch.",
+      "id": "p18"
+    },
+    {
+      "product_name": "Formal Shoes",
+      "product_category": "Fashion",
+      "product_price": 2999,
+      "product_stock": 20,
+      "product_image": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=300",
+      "product_description": "Elegant formal shoes.",
+      "id": "p19"
+    },
+    {
+      "product_name": "Sunglasses UV Protection",
+      "product_category": "Fashion",
+      "product_price": 899,
+      "product_stock": 55,
+      "product_image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=300",
+      "product_description": "Stylish UV protection sunglasses.",
+      "id": "p20"
+    },
+    {
+      "product_name": "Tablet 10 Inch",
+      "product_category": "Electronics",
+      "product_price": 18000,
+      "product_stock": 15,
+      "product_image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=300",
+      "product_description": "High performance tablet.",
+      "id": "p21"
+    },
+    {
+      "product_name": "Power Bank 20000mAh",
+      "product_category": "Electronics",
+      "product_price": 1499,
+      "product_stock": 50,
+      "product_image": "https://images.unsplash.com/photo-1609592806457-99d4ad9b2820?w=300",
+      "product_description": "Fast charging power bank.",
+      "id": "p22"
+    },
+    {
+      "product_name": "Smart Watch",
+      "product_category": "Electronics",
+      "product_price": 3999,
+      "product_stock": 30,
+      "product_image": "https://images.unsplash.com/photo-1508685096489-7aac291ba5b3?w=300",
+      "product_description": "Fitness tracking smartwatch.",
+      "id": "p23"
+    },
+    {
+      "product_name": "USB Hub",
+      "product_category": "Electronics",
+      "product_price": 799,
+      "product_stock": 40,
+      "product_image": "https://images.unsplash.com/photo-1625766127285-990f0003191f?w=300",
+      "product_description": "Multi-port USB hub.",
+      "id": "p24"
+    },
+    {
+      "product_name": "Gaming Mouse Pad",
+      "product_category": "Gaming",
+      "product_price": 499,
+      "product_stock": 60,
+      "product_image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=300",
+      "product_description": "Large gaming mouse pad.",
+      "id": "p25"
+    },
+    {
+      "product_name": "Joystick Controller",
+      "product_category": "Gaming",
+      "product_price": 1999,
+      "product_stock": 25,
+      "product_image": "https://images.unsplash.com/photo-1592840062661-a5a6715e001a?w=300",
+      "product_description": "High precision joystick.",
+      "id": "p26"
+    },
+    {
+      "product_name": "Gaming Desk",
+      "product_category": "Gaming",
+      "product_price": 7000,
+      "product_stock": 10,
+      "product_image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=300",
+      "product_description": "Spacious gaming desk.",
+      "id": "p27"
+    },
+    {
+      "product_name": "Air Fryer",
+      "product_category": "Kitchen",
+      "product_price": 5999,
+      "product_stock": 12,
+      "product_image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?w=300",
+      "product_description": "Healthy cooking air fryer.",
+      "id": "p28"
+    },
+    {
+      "product_name": "Gas Stove 2 Burner",
+      "product_category": "Kitchen",
+      "product_price": 2499,
+      "product_stock": 18,
+      "product_image": "https://images.unsplash.com/photo-1523413184742-999364953942?w=300",
+      "product_description": "Efficient gas stove.",
+      "id": "p29"
+    },
+    {
+      "product_name": "Rice Cooker",
+      "product_category": "Kitchen",
+      "product_price": 2999,
+      "product_stock": 22,
+      "product_image": "https://images.unsplash.com/photo-1544233726-9f1d2b27be8b?w=300",
+      "product_description": "Automatic rice cooker.",
+      "id": "p30"
+    },
+    {
+      "product_name": "Hoodie Sweatshirt",
+      "product_category": "Fashion",
+      "product_price": 1199,
+      "product_stock": 45,
+      "product_image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=300",
+      "product_description": "Warm hoodie for winter.",
+      "id": "p31"
+    },
+    {
+      "product_name": "Track Pants",
+      "product_category": "Fashion",
+      "product_price": 899,
+      "product_stock": 50,
+      "product_image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=300",
+      "product_description": "Comfortable track pants.",
+      "id": "p32"
+    },
+    {
+      "product_name": "Cap Hat",
+      "product_category": "Fashion",
+      "product_price": 399,
+      "product_stock": 70,
+      "product_image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=300",
+      "product_description": "Stylish cap.",
+      "id": "p33"
+    },
+    {
+      "product_name": "Backpack Bag",
+      "product_category": "Fashion",
+      "product_price": 1499,
+      "product_stock": 30,
+      "product_image": "https://images.unsplash.com/photo-1553062407-98eeb94c6a62?w=300",
+      "product_description": "Durable travel backpack.",
+      "id": "p34"
+    },
+    {
+      "product_name": "Desktop Monitor",
+      "product_category": "Electronics",
+      "product_price": 12000,
+      "product_stock": 15,
+      "product_image": "https://images.unsplash.com/photo-1547119957-637f8679db1e?w=300",
+      "product_description": "Full HD monitor.",
+      "id": "p35"
+    },
+    {
+      "product_name": "Keyboard Wireless",
+      "product_category": "Electronics",
+      "product_price": 999,
+      "product_stock": 40,
+      "product_image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=300",
+      "product_description": "Wireless keyboard.",
+      "id": "p36"
+    },
+    {
+      "product_name": "Webcam HD",
+      "product_category": "Electronics",
+      "product_price": 1499,
+      "product_stock": 25,
+      "product_image": "https://images.unsplash.com/photo-1626125330310-863a4929318a?w=300",
+      "product_description": "HD webcam for meetings.",
+      "id": "p37"
+    },
+    {
+      "product_name": "Router WiFi",
+      "product_category": "Electronics",
+      "product_price": 1999,
+      "product_stock": 20,
+      "product_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=300",
+      "product_description": "High-speed WiFi router.",
+      "id": "p38"
+    },
+    {
+      "product_name": "Gaming Console Mini",
+      "product_category": "Gaming",
+      "product_price": 7999,
+      "product_stock": 12,
+      "product_image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=300",
+      "product_description": "Compact gaming console.",
+      "id": "p39"
+    },
+    {
+      "product_name": "Arcade Game Stick",
+      "product_category": "Gaming",
+      "product_price": 2999,
+      "product_stock": 20,
+      "product_image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+      "product_description": "Retro gaming stick.",
+      "id": "p40"
+    },
+    {
+      "product_name": "Cutlery Set",
+      "product_category": "Kitchen",
+      "product_price": 699,
+      "product_stock": 50,
+      "product_image": "https://images.unsplash.com/photo-1590113772274-1da64673673c?w=300",
+      "product_description": "Premium cutlery set.",
+      "id": "p41"
+    },
+    {
+      "product_name": "Storage Containers",
+      "product_category": "Kitchen",
+      "product_price": 999,
+      "product_stock": 35,
+      "product_image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=300",
+      "product_description": "Airtight containers.",
+      "id": "p42"
+    },
+    {
+      "product_name": "Frying Pan",
+      "product_category": "Kitchen",
+      "product_price": 799,
+      "product_stock": 40,
+      "product_image": "https://images.unsplash.com/photo-1544149504-07b6f58fd96a?w=300",
+      "product_description": "Non-stick frying pan.",
+      "id": "p43"
+    },
+    {
+      "product_name": "Blender Machine",
+      "product_category": "Kitchen",
+      "product_price": 2499,
+      "product_stock": 18,
+      "product_image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=300",
+      "product_description": "High-speed blender.",
+      "id": "p44"
+    },
+    {
+      "product_name": "Formal Shirt",
+      "product_category": "Fashion",
+      "product_price": 1299,
+      "product_stock": 35,
+      "product_image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=300",
+      "product_description": "Office wear formal shirt.",
+      "id": "p45"
+    },
+    {
+      "product_name": "Women Handbag",
+      "product_category": "Fashion",
+      "product_price": 1999,
+      "product_stock": 20,
+      "product_image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=300",
+      "product_description": "Stylish handbag.",
+      "id": "p46"
+    },
+    {
+      "product_name": "Slippers",
+      "product_category": "Fashion",
+      "product_price": 499,
+      "product_stock": 60,
+      "product_image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=300",
+      "product_description": "Comfortable slippers.",
+      "id": "p47"
+    },
+    {
+      "product_name": "Jacket Winter",
+      "product_category": "Fashion",
+      "product_price": 2499,
+      "product_stock": 25,
+      "product_image": "https://images.unsplash.com/photo-1544022613-e87ca75a784a?w=300",
+      "product_description": "Warm winter jacket.",
+      "id": "p48"
+    },
+    {
+      "product_name": "Smart Doorbell",
+      "product_category": "Electronics",
+      "product_price": 3499,
+      "product_stock": 15,
+      "product_image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=300",
+      "product_description": "Video doorbell system.",
+      "id": "p49"
+    },
+    {
+      "product_name": "Security Camera",
+      "product_category": "Electronics",
+      "product_price": 4999,
+      "product_stock": 12,
+      "product_image": "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?w=300",
+      "product_description": "Home security camera.",
+      "id": "p50"
+    }
+  ],
+  "cart": [
+    {
+      "product_name": "IPhone 16(Black, 128GB)",
+      "product_category": "Electronics",
+      "product_price": 1500000,
+      "product_stock": 100,
+      "product_image": "data:image/jpeg;base64,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",
+      "product_description": "This is a good electronic device you should try it once after purchasing.",
+      "id": "Q_Ok8L-f-JE"
+    },
+    {
+      "product_name": "Smartphone X Pro",
+      "product_category": "Electronics",
+      "product_price": 45000,
+      "product_stock": 20,
+      "product_image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=300",
+      "product_description": "Latest smartphone with advanced features.",
+      "id": "xGieij5-6QY"
+    },
+    {
+      "product_name": "IPhone 16(Black, 128GB)",
+      "product_category": "Electronics",
+      "product_price": 1500000,
+      "product_stock": 100,
+      "product_image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEBAPEBASEg8PDg0QDRAQEBMQEA4NFREWFhYRFxMYICggGCYlGxUVIT0hJSk3Li4uFx8zODMtNygvLisBCgoKDg0OGhAQGi0lIB0tLS0tLS0tLS0tLTctLTc4KysrLSstLS0rKy4tMDctLS0rLS0tLS0yKy0tLS8uLSs3K//AABEIAKUBMgMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABQYCAwQHAf/EAEgQAAIBAwEDBgkHCgQHAAAAAAABAgMEEQUSITETQVFUYZQGFCJxgaHR0tMHMlNikZLBFSMkQlJygqKxskR0hMIzZHOjtMTh/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAhEQEBAAICAgIDAQAAAAAAAAAAAQIRIVESEwNhIjFBBP/aAAwDAQACEQMRAD8A9xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACO13WaVpRdas3hyhTpwgtqpWrSeI0oR5237XhLIEiCp/lS7qb24W0Xwp00qtVL61SXk+hR3dLPmzUfzriu30qq4eqGEb9dFtBUvF5fTXHeavvGp05c9a47zV9pfXRcgUzYl9Ncd5q+0bL+lue9VfaT11dLmCj1Npb+XuUv8AMVfaYRrf8zX7zVX4l9WSL2CjTk0s8vcd5q+0xhcrnr3Cfbc1cf3F9OQvYKnQpKa8mvcZXFeNVt38xnUtNlOUq9wopZbdzV3fzGfCi0goFe+Se6vcJcy8Zqtvt+cY0bqUuFa4x/mavtNenJdPQQUKVZrjcV1/qantMqcpPhcXD/1FX2mfXV8V7BTIwf01z3mr7TLk39Ncd5q+0njTxq4gp3JP6a47zV9pthbS56tx3mt7w8aeNWwFTdGS4VrjvFR+ps+eNXMN8Lhy+rXpwnD+RRl6y+FTxq2ggND8JY1qsrWtDkbqMOUjDa26delnDqUp4W1h7nFpNZ4YabnzFmkAAAAAAAAAAAAAAAAAAAPPb69p3OoVrqtOMLDR1KjTnUko05X80uVqNvd5EWoLtkyw+HeuStLSUqS2rqvOFtYw553VV7Md3Qt8n2RPD/lYvo21C00SlNy5CKuL6ed9W5nl5k+dtylPf+1HoNTseq6b4R2VzUdK1uqVWok5bEX5WyuLWVv9BKpM8r+QzQcQrajNb6mbe2z9GmnUkvPJRj/DLpPVWztLbEZRT6TKVNvj/Q1o2RyLGpWuVu+Y5qkZrjFeskome4eWlQc6j54esi7qHFpPzcS11YU/1iOuoW/PKS8yydfjz+jSpyvksraa6VvRHXepuL3NSj2f0LBqNK1x5U5+dwj7UVPVadth7NSrj/pxx65Hv+KY3+MXF2aZ4XclVi5PyU0pJ8djnXaSfygeFUYVI21OS8mEKk2uDlJZj5/Jaf8AEeSau8N8lKTXasfict1VrOrmvlT5OhnnewqMFD+XZOXy+Mzl1+jGVe6OsSk929vi5MmKGoLGHPz4zhv0FP0aNDdtTqLpxCL/ANxdNJpWe7y6jfbCOfXIX9O2OKQsvK3rOPN7SdtpYWFD0t8TGxhbftz9MUiZoQo8z/oeP5MvprTjg5PhH8TqpUZc6SO2KhzGaUThcmduWNHHMjJxZ0rBkTabcLpy6PUfPFpc+F6MneYtFmVTapeF2n1FThd26zdWFRXNBLc6iivzlHzThtLz4Lto+pU7m3o3NJ5p16cKkH2SWcPzcCPqxK94F1/FL240uW6hX273TehKUvz9uv3ZvaS6JjLnlKvoAObIAAAAAAAAAAAAAAED4c6pO20+6r0lmrGjV5LCziew3n0JN+gCtwuPHtWqXHG00nbtrb9mpqM0uWqcd+xHEPPJkbrvyd6fc3M7uqq7qVJbVWMa2Kc5YxnesrhzM7fAmjGnp9pGlLajKhCpKeW+Uq1Ftzm+1ycv6E6pHomE1yztq0+2p0aVOhRpqnSpRUacFnEY+d7305e9nTGfYfExKtjzlNtiqdh9dwcsqzfsMdsaa221buX6sfSc861R83rSMtswk30FknRtz13JLLaXnZFXVVtYUmu3GfxJGtQlJ72v6mEdOXO2/Ud8cpGLdq3Vs097cm+1kTdWTllKOI9vP27y63FouEV7Wa46VnfL7D0Y/NJGOVJ0/wAGXWqwhj50km8bkuf7ES/yi+CqVeFelHyJ04QaXNKnFR/tUfsZfdJ0+NLymlttYX1Y9B1X1vGrB058HwfPGXMzhn/o3nOo6Yzh4hb6bJb0k/RvJq1s4tJtOL51nG/0loutDxJrGJdPNLtNdOycXvW7oe9M6eeOuG96cljmP60muhrOPSTlpUcuDWeh5TNf5PjzZXmftPsLNrhL7UefKyukySVOdRf/ABnTTuZ86z9hx0pPG/GTem+hnCyG9u+NfsM+UI9SMlUa4GNDtdVnzxmXQaI3HT9pm5l0MnddKa9ZXPDO0nOlC6tl+l2FRXVrjjNxX5yj5pw2ljpwTk5M0Tk+l/aakjKwaDqtO6tqN1SeadenGcelZW+L7U8r0HeebfJbd7F3qthDfbUblVaDW+NOdSKlVpLoxJvceknGzVYAAQAAAAAAAAAAAI3wggnQbayozptr6rkoy/lkySMakFJOMllSTTT50+YsHnVx4IO1bnZ3U6FOcnN0koyo5fH83KMkv4Nk5/GL1bo3dpL9+zq59VVFy1jTa0obNLZmlw2pOEsdGcNP1FNq6BfqTfi0mvq1KP4yOuNna6jYquo9Yse51/jjZ1HrFj3Ot8c3vSrzKatqnzY58ujueN6+ebI6dedWqffo++Xc7NRybGo9Yse51vjhflDrNh3St8c7J6ZduLi7aphpp+XR4P8AjNa0W44eKSx0Zo4/vG52ajXs6n1ix7nW+OapUdR57mxz22lX45IW2m3MIqEbWoks4W1SwsvOF5e5b+BhHR7hZ/RJvLbbfI5bbzve3vJudmo4uR1HrNj3Wr8cy8X1LrFj3St8c7Ho9d8bNvz8i/8AeZR0muqfJq1qKO1tYzR2fnbWNnb4dg3OzUcCo6j1iw7pV+OZ04ainuuLBvm/RKz/APYO1aVX6pL/ALPvmMtGqvjZy4p5XIqSa509vK8439mo0tap9PY9zrfHPmzqn09j3Ot8ckvF7nq1X71H3x4tc9Wq/eo++OF4RdSnqclh17HdwfidbP8A5BqdpqP09l3Ot8cmPFrnq1X71H3z47W66tV+9R98bnZwh/FNR6xZdzrfHPjtdR6xZd0rfHJd2t11ar96j75olply/wDC1PS6PvjjsR3i2o9Zsu6VvjmcY6kv8TY90rfHOt6Vc9VqfbR98xekXXVan3qPvjjs2586l1mx7nW+OM6j1ix7nW+ObFot0p7atquVHZxylJR45zjb49psem3nVan36Pvj8ezbm2tQ6xYdzrfHPvLah1iw7nX+ObXpd71Wp9+j75rlpN71Wp9+j75eOxzq8v3nNzYxxKUd1nW345/+OZLSrq4xCeobMXukran4vtL97Epr0TRi9BvuCtZ8eepR98n9C0W7i05whBfWqbT+yOc/aS2Dr8E9Ao2cuRordGm5VJYxtTlJYfO+aW9tt87LOaba3UM78ylhzljGezHMuw3HK3bIACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/9k=",
+      "product_description": "This is a good electronic device you should try it once after purchasing.",
+      "id": "2jOZuILOWyg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
